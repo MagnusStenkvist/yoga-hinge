@@ -1,0 +1,13 @@
+{
+  "uuid": "yoga-hinge@magnusstenkvist",
+  "name": "Yoga Hinge",
+  "description": "Shows the laptop hinge angle and sets the angle at which tablet mode switches on. Needs the yoga-hinged service.",
+  "shell-version": [
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.yoga-hinge",
+  "version": 2
+}

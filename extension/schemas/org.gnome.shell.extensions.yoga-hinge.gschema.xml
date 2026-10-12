@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.yoga-hinge"
+          path="/org/gnome/shell/extensions/yoga-hinge/">
+    <key name="show-indicator" type="b">
+      <default>true</default>
+      <summary>Show the hinge angle in the top bar</summary>
+    </key>
+  </schema>
+</schemalist>
